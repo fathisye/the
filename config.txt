@@ -1,6 +1,6 @@
-owner=488341217629700096
+owner=511234899655786503
 prefix=R
-game=Rplay
+game=Rhelp
 stayinchannel=true
 songinstatus=false
-token=NTQ0MTE0OTE3NzYyOTI0NTUw.D0GaeQ.kXcTpeyC2ayFdjKhOFmUikwWHqI
+token=NTQ0MjYwNjk4MjYwMTExNDI2.D0Ih6Q.iXbOu7i3UKQiAknm22CNlTicp70
