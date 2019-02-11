@@ -1,6 +1,6 @@
 owner=511234899655786503
-prefix=R
-game=Rhelp
+prefix=A
+game=AboRoh|Ahelp
 stayinchannel=true
 songinstatus=false
-token=NTQ0MjYwNjk4MjYwMTExNDI2.D0Ih6Q.iXbOu7i3UKQiAknm22CNlTicp70
+token=NTQ0NjQzMDU4NTI1MDExOTY4.D0OGCg.XLgn4C5gV7_4fTpxV1O9ze1h7fE
