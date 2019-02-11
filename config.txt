@@ -1,6 +1,6 @@
 owner=511234899655786503
 prefix=R
-game=Rhelp|??? ????????
+game=Rhelp|the Princess
 stayinchannel=true
 songinstatus=false
 token=NTQ0MjYwNjk4MjYwMTExNDI2.D0OKyQ.w5sg4AZ6h3DAZUVky7dWhTBpm6w
